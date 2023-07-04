@@ -2,7 +2,10 @@
  
 # GitHub Commands
 
-### Git Clone - Downloading from the remote repository and saving it into local machine folder
+| Commands | Description |
+| ------ | ------ |
+
+### | Git Clone | - Downloading from the remote repository and saving it into local machine folder |
 
 ### Git pull - Updates some parts of the local repository with changes from the remote repository
 
